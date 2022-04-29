@@ -1,0 +1,16 @@
+E:\新建文件夹\TimeManage\TimeManage\bin\Debug\TimeManage.exe.config
+E:\新建文件夹\TimeManage\TimeManage\bin\Debug\TimeManage.exe
+E:\新建文件夹\TimeManage\TimeManage\bin\Debug\TimeManage.pdb
+E:\新建文件夹\TimeManage\TimeManage\bin\Debug\CalendarPanel.dll
+E:\新建文件夹\TimeManage\TimeManage\bin\Debug\CalendarPanel.pdb
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.csproj.AssemblyReference.cache
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.Form1.resources
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.Properties.Resources.resources
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.csproj.GenerateResource.cache
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.csproj.CoreCompileInputs.cache
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.csproj.CopyComplete
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.exe
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.pdb
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.LoadCourse.resources
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.CCourse.resources
+E:\新建文件夹\TimeManage\TimeManage\obj\Debug\TimeManage.ToDOList.resources
